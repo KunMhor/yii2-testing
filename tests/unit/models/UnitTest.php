@@ -11,6 +11,7 @@ class UserTest extends \Codeception\Test\Unit
         //$user = new user();
         $this->assertTrue(true);
         $this->assertFalse(false);
+        $this->assertTrue(true);
     }     
 }
 ?>
